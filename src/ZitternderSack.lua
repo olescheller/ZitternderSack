@@ -29,10 +29,6 @@ local function isSacInInventory()
 end
 
 function baseAddonFrame:Main()
-    print("isAlchemyAvailable()")
-    print(isAlchemyAvailable())
-    print("isSacInInventory()")
-    print(isSacInInventory())
     -- search for 160325 sac. if it's not here, show craft button.
     if isAlchemyAvailable() and not isSacInInventory() then
         local sizeX = 150;
