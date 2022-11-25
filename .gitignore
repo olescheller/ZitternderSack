@@ -1,0 +1,7 @@
+*.*
+!src/**
+!docs/**
+!scripts/**
+!.gitignore
+!README.md
+!develop.ps1

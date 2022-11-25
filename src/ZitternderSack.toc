@@ -1,0 +1,9 @@
+## Interface: 10002
+## Title: ZitternderSack
+## Notes: Circular Action Bar.
+## Author: scholle
+## Version: 1.0.0_beta1
+## SavedVariablesPerCharacter: ZitternderSack_Buttons
+## SavedVariables: ZitternderSack_CirclePosition
+
+ZitternderSack.lua
